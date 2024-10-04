@@ -188,7 +188,8 @@ PRODUCT_ENFORCE_RRO_TARGETS := *
 # Parts
 PRODUCT_PACKAGES += \
     XiaomiParts \
-    LineageDialer
+    LineageDialer \
+    LineageSystemUI
 
 # Permissions
 PRODUCT_COPY_FILES += \
