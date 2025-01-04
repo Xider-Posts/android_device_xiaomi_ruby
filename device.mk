@@ -181,7 +181,7 @@ PRODUCT_PACKAGES += \
     WifiResOverlayRuby
 
 DEVICE_PACKAGE_OVERLAYS += \
-    $(DEVICE_PATH)/overlay-lineage
+    $(DEVICE_PATH)/overlay-infinity
 
 PRODUCT_ENFORCE_RRO_TARGETS := *
 
